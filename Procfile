@@ -1,0 +1,1 @@
+web: gunicorn dj5.wsgi --log-file -
